@@ -43,6 +43,37 @@ Ancient horse genomics of Iceland: reconstructing the founding, breeding history
 
 ---
 
+## Critical Timelines
+
+| Event | Approximate date |
+|---|---|
+| MSCA-PF 2026 call opens | April 2026 |
+| **MSCA-PF 2026 submission deadline** | **September 2026** |
+| Evaluation results announced | March–April 2027 |
+| Earliest fellowship start date | September 2027 |
+| Fellowship duration | 24 months |
+| Earliest completion | September 2029 |
+
+**Implications for preparation:**
+- We have approximately 6 months from now (Feb 2026) to the September 2026 deadline
+- Draft application should be complete by **July 2026** to allow time for review, Orlando's sign-off, and final formatting
+- Letter of support from Orlando needed by **August 2026** at latest
+- Expanded National Museum sampling permission should be confirmed before submission
+
+**Suggested internal milestones:**
+| Milestone | Target date |
+|---|---|
+| Project concept finalised | March 2026 |
+| Section briefs completed | March 2026 |
+| Full Part B-1 first draft | April 2026 |
+| First review round (Hannes + Sunna) | May 2026 |
+| Revised draft sent to Orlando | June 2026 |
+| Orlando letter of support received | July 2026 |
+| Final formatted submission package | August 2026 |
+| **Submission** | **September 2026** |
+
+---
+
 ## Open Questions (to resolve in Phase 1)
 
 - [ ] Can we obtain comparative samples from Orkney or Greenland?

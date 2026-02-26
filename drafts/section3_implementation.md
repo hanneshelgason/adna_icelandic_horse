@@ -50,14 +50,32 @@ Final manuscript preparation, conference presentations, public engagement activi
 
 ### Gantt Chart
 
-| Work Package | M1 | M2 | M3 | M4 | M5 | M6 | M7 | M8 | M9 | M10 | M11 | M12 | M13 | M14 | M15 | M16 | M17 | M18 | M19 | M20 | M21 | M22 | M23 | M24 |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| WP1 Sample prep | ██ | ██ | ██ | ██ | ██ | ██ | ██ | | | | | | | | | | | | | | | | | |
-| WP2 Sequencing + imputation | | | | ██ | ██ | ██ | ██ | ██ | ██ | ██ | ██ | ██ | ██ | ██ | | | | | | | | | | |
-| WP3 Population genomics | | | | | | | | | | ██ | ██ | ██ | ██ | ██ | ██ | ██ | ██ | ██ | ██ | ██ | | | | |
-| WP4 Selection + traits | | | | | | | | | | | | | | ██ | ██ | ██ | ██ | ██ | ██ | ██ | ██ | ██ | | |
-| WP5 Dissemination | | | | | | | | | | | | | | | | | | ██ | ██ | ██ | ██ | ██ | ██ | ██ |
-| **Location** | **deCODE** | | | | | | | **CAGT** | | | | | | | | | | | | | | | | |
+```mermaid
+gantt
+    title MSCA-PF Work Plan (24 months, start assumed Sept 2027)
+    dateFormat YYYY-MM
+    axisFormat Month %m
+
+    section WP1 – Sample prep
+    Sample selection, extraction & library prep   :wp1, 2027-09, 7M
+
+    section WP2 – Sequencing & imputation
+    Deep sequencing (NovaSeq, deCODE)             :wp2a, 2027-12, 6M
+    Bioinformatics processing & imputation        :wp2b, 2028-05, 5M
+
+    section WP3 – Population genomics
+    Ancestry, demography & IBD analysis           :wp3, 2028-05, 10M
+
+    section WP4 – Traits & selection
+    Selection scans & variant analysis            :wp4, 2028-10, 8M
+
+    section WP5 – Dissemination
+    Manuscripts, conferences & public engagement  :wp5, 2029-02, 6M
+
+    section Location
+    deCODE Genetics (Reykjavík)                   :crit, loc1, 2027-09, 6M
+    CAGT Toulouse (+ research visits to Iceland)  :active, loc2, 2028-03, 18M
+```
 
 ---
 

@@ -38,6 +38,15 @@ Ahmed, Renaud, Moore, Ebenesersdóttir, …Helgason, Orlando (under review). "Di
 
 ---
 
+## Sample Numbers
+- **Settlement era (870–1100 CE)**: up to 50 specimens
+- **Post-medieval (1100–1900 CE)**: up to 40 specimens
+- **Total**: up to 90 ancient Icelandic horse specimens
+
+Existing sequencing libraries already available for 7 samples (VHR031, VHR085, VHR089, VHR093, VHR100, VHR102, VHR105). 22 further specimens already permitted by the National Museum; sampling proposal submitted for the remainder.
+
+---
+
 ## Three Specific Aims
 
 ### Aim 1 — Reconstruct genomic ancestry and demographic history of ancient Icelandic horses
@@ -72,6 +81,11 @@ Test how ~1,000 years of isolation shaped levels of inbreeding, genetic drift, s
 | Metabolic conditions / EMS-like profiles | "Easy keeper" trait; possible adaptation to low-calorie winters |
 | Ocular conditions (uveitis) | Evidence for higher frequency in isolated breeds |
 | DMRT3 gait variants (tölt and pace) | Selective sweep; not a disease but key to functional adaptation in Iceland |
+
+---
+
+## Key Finding from Ahmed et al. (Under Review)
+The Ahmed et al. manuscript (Sunna co-author; Orlando co-corresponding) establishes that the **NORD genetic ancestry** — the primary ancestry component of Icelandic horses — emerged around **~810 CE, coincident with the Viking era**. This is a powerful framing hook for the application: the founding of the Icelandic horse population is directly linked to the Norse expansion, and our project will be the first to trace this genomically from the inside. The same imputation reference panel (901 modern + 376 ancient genomes) used in Ahmed et al. will be applied to ancient Icelandic horse specimens in this project.
 
 ---
 
