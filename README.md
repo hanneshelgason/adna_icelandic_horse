@@ -69,6 +69,22 @@ This repository is tracked in git. **`background/` and `from_google_drive/` are 
 
 ---
 
+## Diagrams
+
+Where applicable, diagrams in Markdown files use [Mermaid](https://mermaid.js.org/) syntax, which renders natively on GitHub and in most modern Markdown editors. This includes Gantt charts in `drafts/section3_implementation.md` and any flowcharts or pipeline diagrams added during the project.
+
+Example block:
+````
+```mermaid
+gantt
+    title Example
+    dateFormat YYYY-MM
+    ...
+```
+````
+
+---
+
 ## Current Status
 
 See `specs/PLAN.md` for the current phase and active task list.
