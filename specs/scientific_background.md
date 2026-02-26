@@ -62,11 +62,19 @@ VHR105 has 3 existing libraries (VHR105E1bL2, VHR105E1bL3, VHR105E1bL4). Additio
 
 ## Ahmed et al. (Under Review)
 
-Full submission in `background/Ahmed_et_al/`. Key relevance:
-- Demonstrates Sunna and Orlando's active scientific collaboration
-- Uses Orlando's horse imputation reference panel — the same panel Sunna would use in the MSCA project
-- Provides methodological precedent and shows feasibility of imputation approach on diverse horse populations
-- Tables S1–S7 contain detailed sample and population data
+Full submission in `background/Ahmed_et_al/`. Authors: Ahmed, Renaud, Moore, **Ebenesersdóttir S.S.**, …Stefánsson, **Helgason A.**$, **Orlando L.**$ (*$ = co-corresponding*). Note: Gabriel Renaud (co-author) was himself a Marie Curie Individual Fellow — a useful precedent to mention.
+
+**Key findings relevant to the MSCA proposal:**
+- Dataset: 901 modern horse genomes + 376 ancient specimens; 25.9 million phased genotypes
+- Identifies **7 genetic ancestries** shaping modern horse breeds worldwide
+- **NORD ancestry** (the primary component of Icelandic horses, Scandinavian breeds) emerged at **~810 CE, coincident with the Viking era** — directly sets up the historical context of the Icelandic horse founding
+- Modern European horse bloodlines only diverged in the last **700–1,350 years** — most breed differentiation is very recent
+- Outside Asia, horse mobility declined after ~550 CE (fall of Rome), then increased in the Early Middle Ages — relevant to Norse-era horse transport
+- Inbreeding only became widespread in the **20th century** — ancient horses had low F; isolation in Iceland would be an exceptional counter-example
+- **Imputation approach**: GLIMPSE2 + BEAGLE phasing; validated at ≥0.75× coverage for ancient specimens (R² >0.956); this is exactly the method the MSCA project will apply to Icelandic horse specimens
+- Reference panel of 901 modern genomes available for imputing new ancient genomes — directly usable in the MSCA project
+
+**Key framing hook for the application**: The NORD ancestry cluster — which defines the Icelandic horse — emerged at the precise moment of Norse expansion (~810 CE). Our project will be the first to trace, from inside Iceland, how that founding stock arrived, diversified, and evolved over 1,100 years of isolation. Ahmed et al. provides the global backdrop; this project provides the Icelandic close-up.
 
 ## Relevant Reference Papers (`background/papers/`)
 
