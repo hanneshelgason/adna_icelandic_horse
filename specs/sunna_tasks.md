@@ -54,8 +54,7 @@ SSE Answer: I'm currently looking for a job. I have an adjunct professorship at 
 
 ---
 
-### Things Hannes will handle
+### Things Hannes Helgason will handle
 
 - Formatting guidance and MSCA application structure
 - Section review and feedback once drafts are ready
-- Host capacity statement template (he has written these before)

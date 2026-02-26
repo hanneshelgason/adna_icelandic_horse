@@ -1,6 +1,6 @@
 # Instructions for Claude — Read This First
 
-Hello. This project is a **Marie Curie Postdoctoral Fellowship (MSCA-PF) application** being prepared by **Sigríður Sunna Ebenesersdóttir** (the person talking to you), with guidance from **Hannes Schroeder** (her collaborator, not always present).
+Hello. This project is a **Marie Curie Postdoctoral Fellowship (MSCA-PF) application** being prepared by **Sigríður Sunna Ebenesersdóttir** (the person talking to you), with guidance from **Hannes Helgason** (her collaborator, not always present).
 
 Your job is to help write and refine the application text.
 

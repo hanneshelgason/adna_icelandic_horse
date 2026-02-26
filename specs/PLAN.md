@@ -25,7 +25,7 @@ Ancient horse genomics of Iceland: reconstructing the founding, breeding history
 
 ### People
 - **Sunna** — scientific content, sample inventory, access to deCODE data and National Museum collections
-- **Hannes** — MSCA application strategy, format guidance, review
+- **Hannes Helgason** — MSCA application strategy, format guidance, review
 - **Ludovic Orlando** — letter of support, host capacity statement, scientific input on horse genomics; co-author on Ahmed et al. (under review)
 - **Agnar Helgason** — confirm availability of deCODE horse data
 
